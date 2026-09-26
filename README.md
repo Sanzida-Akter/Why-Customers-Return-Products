@@ -14,6 +14,11 @@ Overview of orders, returns, refund amount, monthly trends, sales-channel contri
 <img width="1166" height="735" alt="image" src="https://github.com/user-attachments/assets/fa0aedc7-6bff-46cf-888f-c07851e6128d" />
 
 
+
+https://github.com/user-attachments/assets/ac0a6fc3-6050-465f-b3ba-630e0726e0e6
+
+
+
 ### Page 2 — Product Diagnostics
 Subcategory vs. return-reason heatmap, discount-risk scatter plot, and product-level performance table.
 
