@@ -55,8 +55,7 @@ The dataset used is **synthetic**, created for educational/portfolio purposes.
 ---
 
 ## 📐 Data Model
-   ## 📐 Data Model
-
+   
 ```mermaid
 erDiagram
     Dim_Date ||--o{ Fact_Orders : "date_key"
