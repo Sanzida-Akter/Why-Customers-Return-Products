@@ -11,12 +11,15 @@ An end-to-end Power BI project that transforms raw e-commerce order data into a 
 ### Page 1 — Executive Summary
 Overview of orders, returns, refund amount, monthly trends, sales-channel contribution, and top return reasons.
 
-![Executive Summary](images/executive-summary.png)
+<img width="1166" height="735" alt="image" src="https://github.com/user-attachments/assets/fa0aedc7-6bff-46cf-888f-c07851e6128d" />
+
 
 ### Page 2 — Product Diagnostics
 Subcategory vs. return-reason heatmap, discount-risk scatter plot, and product-level performance table.
 
-![Product Diagnostics](images/product-diagnostics.png)
+<img width="1177" height="746" alt="image" src="https://github.com/user-attachments/assets/57b0c701-c14f-4396-97c9-0a79bcc463e9" />
+
+
 
 ---
 
