@@ -39,7 +39,7 @@ The dataset used is **synthetic**, created for educational/portfolio purposes.
 | Tool | Purpose |
 |---|---|
 | **Power BI Desktop** | Dashboard design & visualization |
-| **Power Query (M)** | Data cleaning & transformation |
+| **SQL** | Data cleaning & transformation |
 | **DAX** | Calculated measures & columns |
 | **Star Schema** | Data modeling (Fact & Dimension tables) |
 
